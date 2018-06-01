@@ -6,7 +6,8 @@
 ## 运行
 
 ```bash
-# 调试
+git clone git@github.com:kekegdsz/calendar.git
+
 npm install
 
 react-native run-android
